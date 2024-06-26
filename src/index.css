@@ -1,0 +1,10 @@
+/* Home Page Styles */
+.logo-box {
+  min-height: 90vh;
+  max-width: 18rem;
+}
+
+/* Form Page Styles */
+.form {
+  max-width: 30rem;
+}
