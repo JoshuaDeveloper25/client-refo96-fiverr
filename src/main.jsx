@@ -9,7 +9,7 @@ import "react-toastify/dist/ReactToastify.css";
 import ReactDOM from "react-dom/client";
 import React from "react";
 
-// Pages
+// --> Pages
 import Root from "./pages/Root";
 import FormEmail from "./pages/FormEmail/FormEmail";
 import Home from "./pages/Home/Home";
