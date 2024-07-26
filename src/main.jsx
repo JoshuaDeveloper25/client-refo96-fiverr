@@ -14,6 +14,7 @@ import Root from "./pages/Root";
 import FormEmail from "./pages/FormEmail/FormEmail";
 import Home from "./pages/Home/Home";
 
+// --> Routes
 const router = createBrowserRouter([
   {
     element: <Root />,
